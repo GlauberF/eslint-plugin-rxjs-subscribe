@@ -6,6 +6,7 @@ npm i eslint-plugin-rxjs-subscribe
 ```
 
 ## use
+https://www.npmjs.com/package/eslint-plugin-rxjs-subscribe
 ```json
 {
   "plugins": ["rxjs-subscribe"],
